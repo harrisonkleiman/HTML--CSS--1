@@ -1,0 +1,12 @@
+body,html {
+	background-color: rgb(68, 38, 38);
+}
+header {
+    background: #422f15;
+    padding: 20px 30px;
+    max-width: 940px;
+    margin: auto;
+}
+nav {
+    display: inline-block;
+}
